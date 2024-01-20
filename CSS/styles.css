@@ -1,0 +1,166 @@
+h1{
+    margin-bottom: 0;
+    color:#000000;
+    margin-top: 0;
+    font-style: italic; 
+    height: 10%;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    
+    
+}
+
+p{
+    margin-top: 0;
+    color: #000000;
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+    
+        
+}
+
+body{
+margin: 0;
+text-align:center;
+font-family: Arial Narrow,Arial,sans-serif;
+background-color: #AFC8AD;
+
+}
+
+.firstdiv{
+    background-color: #AFC8AD;
+    margin: 0%;
+    height: 100%;
+    position:relative;
+}
+
+.cloud1{
+    margin-right: 60%;
+    margin-top: 6%;
+    position: relative;
+}
+.cloud2{
+    margin-left: 60%;
+    margin-top: -4%;
+    position:relative;
+}
+
+.mountain{
+    position: relative 0 auto 0 auto 0;
+}
+
+.cloud3{
+    margin-right: 82%;
+    margin-bottom: -8%;
+    position:relative;
+}
+.cloud4{
+    margin-left: 80%;
+    margin-bottom: 15%;
+    position:relative;
+}
+
+.middle-container{
+    background-color: #AFC8AD;
+    font-family: 'Playfair Display', serif;
+    font-size: 0.9em;   
+    font-palette: #030637;
+    
+
+}
+.hr{
+    border: hidden;
+}
+.skills{
+    margin-top: 10%;
+}
+
+.skills-h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;   
+}
+
+.skill-row{
+    font-family: 'Playfair Display', serif;
+    font-size: 1em;
+       
+}
+
+.myprof{
+    border-radius: 100%;
+    position:relative;
+    float:left;
+    margin-left: -350%;
+    
+}
+
+.profile{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        height: 40vh;
+
+}
+
+.text-left{
+            width: 40vw;
+            text-align: right;
+            padding: 200px;
+}
+
+.text-h3{
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+}
+
+.text-p{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.20em;
+}
+
+
+.java{
+    border-radius: 100%;
+    position:relative;
+    float:right;
+    
+}
+.java-p{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.20em;
+    text-align: justify;
+    justify-content: space-between;
+}
+
+.web{
+    border-radius: 100%;
+    position:relative;
+    float:left;
+}
+.web-p{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.20em;
+    text-align: justify;
+    justify-content: space-between;
+}
+.cloud{
+    border-radius: 100%;
+    position:relative;
+    float:right;
+}
+.cloud-p{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.20em;
+    text-align: justify;
+    justify-content: space-between;
+}
+.con-h2{
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+
+.con-p{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.20em;
+}
