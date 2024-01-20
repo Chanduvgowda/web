@@ -23,12 +23,12 @@ body{
 margin: 0;
 text-align:center;
 font-family: Arial Narrow,Arial,sans-serif;
-background-color: #AFC8AD;
+background-color: #DEEEEA;
 
 }
 
 .firstdiv{
-    background-color: #AFC8AD;
+    background-color: #C4DCE0;
     margin: 0%;
     height: 100%;
     position:relative;
@@ -61,7 +61,7 @@ background-color: #AFC8AD;
 }
 
 .middle-container{
-    background-color: #AFC8AD;
+    background-color: #8EC3B0;
     font-family: 'Playfair Display', serif;
     font-size: 0.9em;   
     font-palette: #030637;
